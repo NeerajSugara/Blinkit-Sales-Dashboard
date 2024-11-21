@@ -3,7 +3,8 @@
 
 This dashboard helps the Blinkit to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-
+# Dashboard Link: 
+https://app.powerbi.com/groups/me/reports/f10868d0-eb94-4193-9899-8deb7125bf75/826645ae91590ba300ed?experience=power-bi
 
 ### KPI's Requirements
  - Total Sales: The overall revenue generated from all items sold.
